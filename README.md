@@ -6,4 +6,4 @@ Designing the bridge between human precision and machine autonomy.
 Founder of [@Galenite-GLNT](https://github.com/Galenite-GLNT) —  
 an AI ecosystem that turns chaos into order.
 
-⚙️ currently building: Galenite BotHive v1.0
+⚙️ currently building: PSL marketplace with Galenite 1.1
